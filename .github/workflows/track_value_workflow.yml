@@ -1,0 +1,35 @@
+name: Denní sledování value sázek
+
+on:
+  schedule:
+    # Spustí se každý den v 9:00 UTC (10:00 nebo 11:00 našeho času podle letního/zimního)
+    - cron: '0 9 * * *'
+  workflow_dispatch:  # umožní i ruční spuštění tlačítkem na GitHubu
+
+permissions:
+  contents: write  # potřeba, aby workflow mohl commitnout aktualizovaný CSV zpátky do repa
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stáhnout repozitář
+        uses: actions/checkout@v4
+
+      - name: Nastavit Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Spustit sledování kurzů
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python track_value.py
+
+      - name: Uložit výsledky zpátky do repozitáře
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add value_log.csv
+          git diff --staged --quiet || git commit -m "Aktualizace value_log.csv $(date -u +%Y-%m-%d)"
+          git push
