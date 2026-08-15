@@ -1,0 +1,10 @@
+match_id,league,commence_time,home_team,away_team,outcome,odds_at_detection,fair_prob,edge_pct,kelly_stake_pct,recommended_stake_czk
+e7898a66276957ac39eb9d5cd794c637,soccer_norway_eliteserien,2026-08-14T17:00:00Z,Rosenborg,Viking FK,Rosenborg,2.9,0.3681,6.75,0.89,89.0
+73e3be2a33409d0f08267d062817bfe0,soccer_sweden_allsvenskan,2026-08-10T17:00:00Z,IK Sirius,IF Brommapojkarna,IF Brommapojkarna,9.5,0.1153,9.54,0.28,28.0
+a145c2b49092d2dc91f0b10ef800dcfd,soccer_sweden_allsvenskan,2026-08-16T12:00:00Z,Degerfors IF,IFK Goteborg,Degerfors IF,3.3,0.3189,5.24,0.57,57.0
+ad13fd726816f83cbb2fd5f7b27021b5,soccer_sweden_allsvenskan,2026-08-16T14:30:00Z,Kalmar FF,Hammarby IF,Kalmar FF,4.6,0.2255,3.73,0.26,26.0
+990c183d46db8b1bd4f75a9eebcc5590,soccer_sweden_allsvenskan,2026-08-16T12:00:00Z,IF Brommapojkarna,Örgryte IS,Örgryte IS,4.6,0.2468,13.53,0.94,94.0
+5a522fe54ae01be40f5c1969281e05b0,soccer_sweden_allsvenskan,2026-08-17T17:00:00Z,BK Hacken,Halmstads BK,Halmstads BK,9.0,0.1171,5.39,0.17,17.0
+6bf2a0cde15cd3833ac0ec0aeb87286c,soccer_sweden_allsvenskan,2026-08-14T17:00:00Z,IF Elfsborg,Västerås SK,Västerås SK,4.4,0.2346,3.22,0.24,24.0
+f66d5c0307a1d2490c036414a7c8cbd3,soccer_sweden_allsvenskan,2026-08-15T13:00:00Z,Mjällby AIF,IK Sirius,Mjällby AIF,3.7,0.2858,5.75,0.53,53.0
+029f6bfe29cfa3b2d7253fe87b9c3dc7,soccer_norway_eliteserien,2026-08-16T15:00:00Z,SK Brann,HamKam,HamKam,5.8,0.1786,3.59,0.19,19.0
