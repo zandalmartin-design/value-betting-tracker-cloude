@@ -1,5 +1,5 @@
 name: Vyhodnocení value sázek
-
+permissions: contents: write (zarovnané stejně jako "on:" pod ním, tedy bez odsazení)
 on:
   workflow_dispatch:  # spouští se ručně tlačítkem
   schedule:
