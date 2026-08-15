@@ -1,0 +1,23 @@
+name: Vyhodnocení value sázek
+
+on:
+  workflow_dispatch:  # spouští se ručně tlačítkem
+  schedule:
+    - cron: '0 10 * * 1'  # navíc jednou týdně (pondělí) pro pravidelnou kontrolu
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stáhnout repozitář
+        uses: actions/checkout@v4
+
+      - name: Nastavit Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Spustit vyhodnocení výsledků
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python check_results.py
