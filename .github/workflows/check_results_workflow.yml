@@ -1,9 +1,11 @@
 name: Vyhodnocení value sázek
-permissions: contents: write (zarovnané stejně jako "on:" pod ním, tedy bez odsazení)
+permissions:
+  contents: write
+
 on:
-  workflow_dispatch:  # spouští se ručně tlačítkem
+  workflow_dispatch:
   schedule:
-    - cron: '0 10 * * 1'  # navíc jednou týdně (pondělí) pro pravidelnou kontrolu
+    - cron: '0 10 * * 1'
 
 jobs:
   check:
