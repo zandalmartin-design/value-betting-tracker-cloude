@@ -290,3 +290,21 @@ fetched_at,league,match_id,commence_time,home_team,away_team,outcome,pinnacle_od
 2026-08-16T09:54:24.505084+00:00,soccer_sweden_allsvenskan,5a522fe54ae01be40f5c1969281e05b0,2026-08-17T17:00:00Z,BK Hacken,Halmstads BK,BK Hacken,1.3,0.7226,1.33,-0.039,betfair_ex_eu,1.35,-0.0245,
 2026-08-16T09:54:24.505084+00:00,soccer_sweden_allsvenskan,5a522fe54ae01be40f5c1969281e05b0,2026-08-17T17:00:00Z,BK Hacken,Halmstads BK,Halmstads BK,8.04,0.1168,9.5,0.1099,coolbet,9.7,0.1333,VALUE
 2026-08-16T09:54:24.505084+00:00,soccer_sweden_allsvenskan,5a522fe54ae01be40f5c1969281e05b0,2026-08-17T17:00:00Z,BK Hacken,Halmstads BK,Draw,5.85,0.1606,6.0,-0.0365,leovegas,6.0,-0.0365,
+2026-08-17T10:17:51.865393+00:00,soccer_sweden_allsvenskan,5a522fe54ae01be40f5c1969281e05b0,2026-08-17T17:00:00Z,BK Hacken,Halmstads BK,BK Hacken,1.32,0.7251,1.36,-0.0139,betfair_ex_eu,1.36,-0.0139,
+2026-08-17T10:17:51.865393+00:00,soccer_sweden_allsvenskan,5a522fe54ae01be40f5c1969281e05b0,2026-08-17T17:00:00Z,BK Hacken,Halmstads BK,Halmstads BK,8.37,0.1143,8.5,-0.028,smarkets,9.4,0.0749,
+2026-08-17T10:17:51.865393+00:00,soccer_sweden_allsvenskan,5a522fe54ae01be40f5c1969281e05b0,2026-08-17T17:00:00Z,BK Hacken,Halmstads BK,Draw,5.96,0.1606,5.6,-0.1007,leovegas,6.0,-0.0365,
+2026-08-17T10:17:51.865504+00:00,soccer_sweden_allsvenskan,dee9726ab74a82540f64360842e72253,2026-08-23T12:00:00Z,IFK Goteborg,IF Elfsborg,IF Elfsborg,2.62,0.3606,2.8,0.0097,unibet_se,2.8,0.0097,
+2026-08-17T10:17:51.865504+00:00,soccer_sweden_allsvenskan,dee9726ab74a82540f64360842e72253,2026-08-23T12:00:00Z,IFK Goteborg,IF Elfsborg,IFK Goteborg,2.59,0.3648,2.55,-0.0698,betfair_ex_uk,2.6,-0.0516,
+2026-08-17T10:17:51.865504+00:00,soccer_sweden_allsvenskan,dee9726ab74a82540f64360842e72253,2026-08-23T12:00:00Z,IFK Goteborg,IF Elfsborg,Draw,3.44,0.2746,3.65,0.0024,unibet_se,3.65,0.0024,
+2026-08-17T10:17:51.865553+00:00,soccer_sweden_allsvenskan,f77bbe73536f44066df1f69cc5e49f94,2026-08-23T12:00:00Z,Västerås SK,Kalmar FF,Kalmar FF,2.54,0.3719,2.8,0.0412,unibet_se,2.8,0.0412,VALUE
+2026-08-17T10:17:51.865553+00:00,soccer_sweden_allsvenskan,f77bbe73536f44066df1f69cc5e49f94,2026-08-23T12:00:00Z,Västerås SK,Kalmar FF,Västerås SK,2.69,0.3511,2.6,-0.0871,gtbets,2.71,-0.0484,
+2026-08-17T10:17:51.865553+00:00,soccer_sweden_allsvenskan,f77bbe73536f44066df1f69cc5e49f94,2026-08-23T12:00:00Z,Västerås SK,Kalmar FF,Draw,3.41,0.277,3.5,-0.0305,betfair_ex_uk,3.55,-0.0167,
+2026-08-17T10:17:51.865604+00:00,soccer_sweden_allsvenskan,7d1d5d6b8e678e7614d80617a1b5fe7b,2026-08-23T14:30:00Z,IF Brommapojkarna,Degerfors IF,Degerfors IF,3.44,0.2744,3.85,0.0564,unibet_se,3.85,0.0564,VALUE
+2026-08-17T10:17:51.865604+00:00,soccer_sweden_allsvenskan,7d1d5d6b8e678e7614d80617a1b5fe7b,2026-08-23T14:30:00Z,IF Brommapojkarna,Degerfors IF,IF Brommapojkarna,2.05,0.4605,2.04,-0.0607,betonlineag,2.07,-0.0469,
+2026-08-17T10:17:51.865604+00:00,soccer_sweden_allsvenskan,7d1d5d6b8e678e7614d80617a1b5fe7b,2026-08-23T14:30:00Z,IF Brommapojkarna,Degerfors IF,Draw,3.56,0.2651,3.6,-0.0455,unibet_se,3.6,-0.0455,
+2026-08-17T10:17:51.865658+00:00,soccer_sweden_allsvenskan,eeb049b7a22ef29d5ccadfe0e90418ee,2026-08-23T14:30:00Z,Hammarby IF,GAIS,GAIS,5.93,0.1587,6.5,0.0315,unibet_se,6.5,0.0315,VALUE
+2026-08-17T10:17:51.865658+00:00,soccer_sweden_allsvenskan,eeb049b7a22ef29d5ccadfe0e90418ee,2026-08-23T14:30:00Z,Hammarby IF,GAIS,Hammarby IF,1.48,0.6358,1.5,-0.0462,betfair_ex_uk,1.51,-0.0399,
+2026-08-17T10:17:51.865658+00:00,soccer_sweden_allsvenskan,eeb049b7a22ef29d5ccadfe0e90418ee,2026-08-23T14:30:00Z,Hammarby IF,GAIS,Draw,4.58,0.2055,4.75,-0.024,unibet_se,4.75,-0.024,
+2026-08-17T10:17:51.865700+00:00,soccer_sweden_allsvenskan,7c23f06ff1ec33227263fa2f0cec0224,2026-08-24T17:00:00Z,Malmo FF,Djurgardens IF,Djurgardens IF,2.55,0.3708,,,nordicbet,2.52,-0.0656,
+2026-08-17T10:17:51.865700+00:00,soccer_sweden_allsvenskan,7c23f06ff1ec33227263fa2f0cec0224,2026-08-24T17:00:00Z,Malmo FF,Djurgardens IF,Malmo FF,2.6,0.3636,,,betfred_uk,2.6,-0.0545,
+2026-08-17T10:17:51.865700+00:00,soccer_sweden_allsvenskan,7c23f06ff1ec33227263fa2f0cec0224,2026-08-24T17:00:00Z,Malmo FF,Djurgardens IF,Draw,3.56,0.2656,,,betfair_sb_uk,3.8,0.0092,
