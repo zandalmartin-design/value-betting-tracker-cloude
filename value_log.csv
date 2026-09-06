@@ -1007,3 +1007,27 @@ fetched_at,league,match_id,commence_time,home_team,away_team,outcome,pinnacle_od
 2026-09-05T09:10:00.798937+00:00,soccer_sweden_allsvenskan,4f620971d03bc6d2fb1f126c7549d8c1,2026-09-07T17:00:00Z,Mjällby AIF,IFK Goteborg,IFK Goteborg,2.84,0.3326,3.15,0.0476,unibet_se,3.15,0.0476,VALUE
 2026-09-05T09:10:00.798937+00:00,soccer_sweden_allsvenskan,4f620971d03bc6d2fb1f126c7549d8c1,2026-09-07T17:00:00Z,Mjällby AIF,IFK Goteborg,Mjällby AIF,2.34,0.4036,2.3,-0.0717,betonlineag,2.34,-0.0555,
 2026-09-05T09:10:00.798937+00:00,soccer_sweden_allsvenskan,4f620971d03bc6d2fb1f126c7549d8c1,2026-09-07T17:00:00Z,Mjällby AIF,IFK Goteborg,Draw,3.58,0.2638,3.65,-0.0371,unibet_se,3.65,-0.0371,
+2026-09-06T09:10:36.462581+00:00,soccer_norway_eliteserien,b4d75fd618531dd80cc67619005de69c,2026-09-06T15:00:00Z,Molde,KFUM,KFUM,8.03,0.1188,9.0,0.069,coolbet,9.05,0.0749,VALUE
+2026-09-06T09:10:36.462581+00:00,soccer_norway_eliteserien,b4d75fd618531dd80cc67619005de69c,2026-09-06T15:00:00Z,Molde,KFUM,Molde,1.32,0.7225,1.27,-0.0824,gtbets,1.38,-0.0029,
+2026-09-06T09:10:36.462581+00:00,soccer_norway_eliteserien,b4d75fd618531dd80cc67619005de69c,2026-09-06T15:00:00Z,Molde,KFUM,Draw,6.01,0.1587,6.1,-0.032,betfair_ex_eu,6.2,-0.0161,
+2026-09-06T09:10:36.462712+00:00,soccer_norway_eliteserien,5fbb8bc08b25729e9075a55a5c41fd88,2026-09-06T15:00:00Z,Sarpsborg FK,Vålerenga,Sarpsborg FK,1.96,0.4933,1.91,-0.0578,smarkets,2.0,-0.0134,
+2026-09-06T09:10:36.462712+00:00,soccer_norway_eliteserien,5fbb8bc08b25729e9075a55a5c41fd88,2026-09-06T15:00:00Z,Sarpsborg FK,Vålerenga,Vålerenga,3.45,0.2803,3.4,-0.0471,smarkets,3.55,-0.0051,
+2026-09-06T09:10:36.462712+00:00,soccer_norway_eliteserien,5fbb8bc08b25729e9075a55a5c41fd88,2026-09-06T15:00:00Z,Sarpsborg FK,Vålerenga,Draw,4.27,0.2264,3.9,-0.1169,betfair_ex_eu,4.4,-0.0037,
+2026-09-06T09:10:36.462811+00:00,soccer_norway_eliteserien,81f2f14a9d3930ccd1c9e268a1938ea1,2026-09-06T17:15:00Z,Kristiansund BK,Tromso,Kristiansund BK,4.29,0.2254,4.5,0.0142,unibet_se,4.5,0.0142,
+2026-09-06T09:10:36.462811+00:00,soccer_norway_eliteserien,81f2f14a9d3930ccd1c9e268a1938ea1,2026-09-06T17:15:00Z,Kristiansund BK,Tromso,Tromso,1.84,0.5254,1.71,-0.1015,smarkets,1.9,-0.0016,
+2026-09-06T09:10:36.462811+00:00,soccer_norway_eliteserien,81f2f14a9d3930ccd1c9e268a1938ea1,2026-09-06T17:15:00Z,Kristiansund BK,Tromso,Draw,3.88,0.2492,3.8,-0.0531,gtbets,3.96,-0.0132,
+2026-09-06T09:10:36.924100+00:00,soccer_sweden_allsvenskan,864893cadfc06de823cfacb5be81283f,2026-09-06T12:00:00Z,Örgryte IS,Hammarby IF,Hammarby IF,1.2,0.7966,1.22,-0.0281,gtbets,1.28,0.0197,
+2026-09-06T09:10:36.924100+00:00,soccer_sweden_allsvenskan,864893cadfc06de823cfacb5be81283f,2026-09-06T12:00:00Z,Örgryte IS,Hammarby IF,Örgryte IS,12.4,0.0771,14.0,0.0793,unibet_se,14.0,0.0793,VALUE
+2026-09-06T09:10:36.924100+00:00,soccer_sweden_allsvenskan,864893cadfc06de823cfacb5be81283f,2026-09-06T12:00:00Z,Örgryte IS,Hammarby IF,Draw,7.57,0.1263,7.5,-0.0529,smarkets,8.0,0.0103,
+2026-09-06T09:10:36.924229+00:00,soccer_sweden_allsvenskan,79aba40194a33a7d4198479952cf8623,2026-09-06T14:30:00Z,IF Brommapojkarna,IF Elfsborg,IF Brommapojkarna,3.47,0.2763,3.75,0.0361,unibet_se,3.75,0.0361,VALUE
+2026-09-06T09:10:36.924229+00:00,soccer_sweden_allsvenskan,79aba40194a33a7d4198479952cf8623,2026-09-06T14:30:00Z,IF Brommapojkarna,IF Elfsborg,IF Elfsborg,2.07,0.4632,2.02,-0.0644,smarkets,2.14,-0.0088,
+2026-09-06T09:10:36.924229+00:00,soccer_sweden_allsvenskan,79aba40194a33a7d4198479952cf8623,2026-09-06T14:30:00Z,IF Brommapojkarna,IF Elfsborg,Draw,3.68,0.2605,3.75,-0.023,unibet_se,3.75,-0.023,
+2026-09-06T09:10:36.924325+00:00,soccer_sweden_allsvenskan,6dbd4200510ca38e4534170d9c68aad6,2026-09-07T17:00:00Z,Malmo FF,AIK,AIK,4.05,0.2329,3.6,-0.1617,betfair_ex_uk,4.4,0.0246,
+2026-09-06T09:10:36.924325+00:00,soccer_sweden_allsvenskan,6dbd4200510ca38e4534170d9c68aad6,2026-09-07T17:00:00Z,Malmo FF,AIK,Malmo FF,1.74,0.542,1.92,0.0407,unibet_se,1.92,0.0407,VALUE
+2026-09-06T09:10:36.924325+00:00,soccer_sweden_allsvenskan,6dbd4200510ca38e4534170d9c68aad6,2026-09-07T17:00:00Z,Malmo FF,AIK,Draw,4.19,0.2251,4.35,-0.0208,leovegas,4.5,0.0129,
+2026-09-06T09:10:36.924481+00:00,soccer_sweden_allsvenskan,164ab4dec789bbe85c50ae13d159df4f,2026-09-07T17:00:00Z,Kalmar FF,Djurgardens IF,Djurgardens IF,1.78,0.5287,1.74,-0.08,smarkets,1.84,-0.0271,
+2026-09-06T09:10:36.924481+00:00,soccer_sweden_allsvenskan,164ab4dec789bbe85c50ae13d159df4f,2026-09-07T17:00:00Z,Kalmar FF,Djurgardens IF,Kalmar FF,4.15,0.2268,5.0,0.1339,unibet_se,5.0,0.1339,VALUE
+2026-09-06T09:10:36.924481+00:00,soccer_sweden_allsvenskan,164ab4dec789bbe85c50ae13d159df4f,2026-09-07T17:00:00Z,Kalmar FF,Djurgardens IF,Draw,3.85,0.2445,4.0,-0.0222,betfair_ex_eu,4.1,0.0023,
+2026-09-06T09:10:36.924574+00:00,soccer_sweden_allsvenskan,4f620971d03bc6d2fb1f126c7549d8c1,2026-09-07T17:00:00Z,Mjällby AIF,IFK Goteborg,IFK Goteborg,2.84,0.3326,2.88,-0.0422,coolbet,3.0,-0.0023,
+2026-09-06T09:10:36.924574+00:00,soccer_sweden_allsvenskan,4f620971d03bc6d2fb1f126c7549d8c1,2026-09-07T17:00:00Z,Mjällby AIF,IFK Goteborg,Mjällby AIF,2.34,0.4036,2.5,0.0091,unibet_se,2.5,0.0091,
+2026-09-06T09:10:36.924574+00:00,soccer_sweden_allsvenskan,4f620971d03bc6d2fb1f126c7549d8c1,2026-09-07T17:00:00Z,Mjällby AIF,IFK Goteborg,Draw,3.58,0.2638,3.55,-0.0634,betfair_ex_uk,3.75,-0.0107,
